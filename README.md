@@ -6,6 +6,9 @@
 
 A desktop productivity app to help users keep their tasks organized.
 
+## Dependencies
+
+* Java
 
 ## Setup
 
