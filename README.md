@@ -6,3 +6,12 @@
 
 A desktop productivity app to keep me organized.
 
+
+## Setup
+
+Clone this repository and update java path
+
+```
+git clone https://github.com/sng06/TodoList.git
+cd TodoList
+```
