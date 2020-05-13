@@ -4,7 +4,7 @@
 
 ## Motivation
 
-A desktop productivity app to keep me organized.
+A desktop productivity app to help users keep their tasks organized.
 
 
 ## Setup
